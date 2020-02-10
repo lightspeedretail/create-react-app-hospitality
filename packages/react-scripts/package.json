@@ -1,10 +1,10 @@
 {
   "name": "react-scripts",
-  "version": "3.1.1",
-  "description": "Configuration and scripts for Create React App.",
+  "version": "3.1.2-beta",
+  "description": "Lightspeed Hospitality - Configuration and scripts for Create React App.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
+    "url": "https://github.com/lightspeedretail/create-react-app-hospitality",
     "directory": "packages/react-scripts"
   },
   "license": "MIT",
